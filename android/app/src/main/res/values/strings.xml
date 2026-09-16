@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mindforge</string>
+    <string name="title_activity_main">mindforge</string>
+    <string name="package_name">com.mindforge.game</string>
+    <string name="custom_url_scheme">com.mindforge.game</string>
+</resources>
